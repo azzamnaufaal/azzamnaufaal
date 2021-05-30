@@ -1,7 +1,7 @@
-👋 Hi, I’m @azzamnaufaal
-👀 I’m interested in data field
-🌱 I’m currently learning python and R language
-📫 How to reach me at azzamn44@gmail.com
+- 👋 Hi, I’m @azzamnaufaal
+- 👀 I’m interested in data field
+- 🌱 I’m currently learning python and R language
+- 📫 How to reach me at azzamn44@gmail.com
 
 <!---
 azzamnaufaal/azzamnaufaal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
