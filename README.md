@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azzamnaufaal
-- 👀 I’m interested in data field
-- 🌱 I’m currently learning python and R language
+- 👀 I’m interested in Data Field
+- 🌱 I’m currently learning Python and R language
 - 📫 How to reach me at azzamn44@gmail.com
 
 <!---
