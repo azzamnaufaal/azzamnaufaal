@@ -7,8 +7,8 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1656552265~hmac=4e4d141936ec6230604db760a2b7c819" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
 <br />
 
