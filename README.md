@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | X" width="22px" src="[https://cdn-icons-png.flaticon.com/512/1409/1409937.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png)" />][X]
+[<img align="left" alt="codeSTACKr | X" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" />][X]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
